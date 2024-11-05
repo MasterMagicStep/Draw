@@ -8,10 +8,10 @@ score2= randint(1,15)
 time1 = randint(10,1000)
 time2 = randint(10, 1000)
 #
-print("В команде Мастера кода участников: %s ! " % T1_num)
+print("В команде Hell участников: %s ! " % T1_num)
 print("Итого сегодня в командах участников: %s и %s !" % (T1_num, T2_num))
-print("Команда Волшебники данных решила задач: {} !".format(score2))
-print("Волшебники данных решили задачи за {} с !".format(time2))
+print("Команда Heaven решила задач: {} !".format(score2))
+print("Heaven решили задачи за {} с !".format(time2))
 
 print(f'Команды решили {score1} и {score2} задач.')
 
